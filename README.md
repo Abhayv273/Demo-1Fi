@@ -1,6 +1,6 @@
 # 1Fi Marketplace - SDE Assignment (Demo)
 
-A recruiter-ready frontend implementation of the **1Fi Marketplace** section for the 1Fi SDE Intern Assignment.
+A frontend implementation of the **1Fi Marketplace** feature, developed as part of the **1Fi SDE Intern recruitment and technical evaluation process**.
 > **Disclaimer:** This repository contains my implementation of an interview/selection assignment. It is an independent candidate submission created for evaluation purposes and does not represent official 1Fi software or employment work.
 
 
