@@ -1,6 +1,8 @@
 # 1Fi Marketplace - SDE Assignment (Demo)
 
 A recruiter-ready frontend implementation of the **1Fi Marketplace** section for the 1Fi SDE Intern Assignment.
+> **Disclaimer:** This repository contains my implementation of an interview/selection assignment. It is an independent candidate submission created for evaluation purposes and does not represent official 1Fi software or employment work.
+
 
 The project extends the existing **Shop** experience with a complete marketplace journey where users can browse products, view product details, select product variants, choose an EMI plan, add the selected configuration to the cart, and proceed through a demo checkout flow.
 
